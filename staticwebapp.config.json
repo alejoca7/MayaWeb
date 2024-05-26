@@ -1,0 +1,10 @@
+{
+    "routes": [
+      {
+        "route": "/api/*",
+        "allowedRoles": ["anonymous"],
+        "rewrite": "http://192.168.43.155:3001/api/*"
+      }
+    ]
+  }
+  

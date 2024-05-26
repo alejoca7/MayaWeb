@@ -3,7 +3,7 @@
       {
         "route": "/api/*",
         "allowedRoles": ["anonymous"],
-        "rewrite": "http://192.168.43.155:3001/api/*"
+        "rewrite": "https://brave-forest-0aa783e0f.5.azurestaticapps.net/api/*"
       }
     ]
   }
